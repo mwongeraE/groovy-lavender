@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Kimuka Gardens
-tagline: Kimuka gardens
+tagline: The peaceful place, we found it.
 featuredImage: /assets/image1.jpg
 cta:
   ctaText: Know more
