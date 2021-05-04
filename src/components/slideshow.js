@@ -35,7 +35,7 @@ export default function SimpleSlider() {
           centerMode: true,
           centerPadding: '50px'
         });
-      } else {``
+      } else {
         setSettings(config);
       }
     }
