@@ -28,6 +28,7 @@ const AboutPage = ({ data }) => {
 			/>
 			<div className="wrapper">
 				<h1>{frontmatter.title}</h1>
+        <SimpleSlider/>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
 		</Layout>
