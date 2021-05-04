@@ -3,9 +3,21 @@ template: index-page
 slug: /
 title: Wyatt Morriss
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/kimuka.jfif
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+<!--StartFragment-->
+
+# Kimuka Gardens
+
+The peaceful place, we found it.
+
+**WELCOME TO KIMUKA GARDENS PHASE**
+
+Kimuka is a Maasai name meaning the plain of Girrafes. Located in the boundary of Kajiado-Kiambu County along the Ngong-Suswa road. This property provides you a unique opportunity to own prime land in a gated community at an affordable investment.
+
+***Own an eighth acre plot in a gated community along the Ngong-Suswa Bypass.***
+
+<!--EndFragment-->
