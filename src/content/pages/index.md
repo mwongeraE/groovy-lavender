@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Kimuka Gardens
+tagline: Kimuka gardens
 featuredImage: /assets/kimuka.jfif
 cta:
   ctaText: Know more
