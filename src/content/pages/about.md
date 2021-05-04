@@ -1,50 +1,83 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: "About Kimuka Gardens "
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+<!--StartFragment-->
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+**AMENITIES**
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+* *Available Electricity on site*
+* *Borehole on site*
+* *Chain-link fence*
+* *Estate manned gate*
+* *Internal murram access roads*
+* *Landscape trees*
+* *Schools within reach*
+* *Recreation sites within reach*
+* *1 hour drive to Nairobi CBD*
+* *1 hour drive to Naivasha*
+* *Nachu SGR station just 3kms away*
+* *Availability of construction materials*
+* *Affordable 50 by 100 plots.*
+* *Ksh 350,000 payable within 6 months.*
+* *Just 15 mins drive from Ngong town.*
+* *Gated community with water and electricity on-site*
+* *Community area*
+* *Chain-link fence*
+* *Estate manned gate*
+* *Landscape trees.*
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+<!--EndFragment-->
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+![Kimuka Gardens](/assets/b59d3ba3-536f-48f0-91e1-41f90907a86d.jfif "Kimuka")
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+<!--StartFragment-->
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+## **PRICE & PLANS**
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+**A PLAN WHICH BEST MATCHES YOUR NEEDS**
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+You can now easily own prime property at an affordable price.
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+If you are buying for speculation – to sell in the future – the cash option payable within a month would be ideal, so that you can rip maximum profits.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+If you are looking to own a home and you are tight on budget, we have you covered. You can spread your cost as you align your finances to build your home.
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+**370,000 KES**
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+**6 MONTH PAYMENT**
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Late title processing
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+Fence your plot later
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Own at your own pace
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
+Book with KES 50,000
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
+**350,000 KES**
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+**3 MONTH PAYMENT**
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+Early title processing
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+Fence your plot immediately
+
+Make money work for you faster
+
+Book with KES 50,000
+
+**340,000 KES**
+
+**1 MONTH PAYMENT**
+
+Early title processing
+
+Fence your plot immediately
+
+Make money work for you faster
+
+Book with KES 50,000
+
+<!--EndFragment-->
