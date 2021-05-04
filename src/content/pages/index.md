@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Kimuka Gardens
 tagline: Kimuka gardens
-featuredImage: /assets/kimuka.jfif
+featuredImage: /assets/image1.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
