@@ -15,16 +15,16 @@ export default function SimpleSlider() {
 
     const images = [
       {
-        img: '/images/image1.jpg'
+        img: 'https://i.imgur.com/msgHCIr.jpg'
       },
       {
-        img: '/images/image2.jpg'
+        img: 'https://i.imgur.com/Kqq8QRU.jpg'
       },
       {
-        img: '/images/image3.jpg'
+        img: 'https://i.imgur.com/HltCDEO.jpg'
       },
       {
-        img: '/images/image4.jpg'
+        img: 'https://i.imgur.com/K7TZ7OB.jpg'
       }
     ]
 
