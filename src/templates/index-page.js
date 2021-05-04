@@ -58,7 +58,6 @@ const HomePage = ({ data }) => {
           ) : ""}
         </div>
       </div>
-      <BlogListHome/>
 		</Layout>
 	)
 }

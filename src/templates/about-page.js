@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-
+import SimpleSlider from "../components/slideshow"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -28,6 +28,7 @@ const AboutPage = ({ data }) => {
 			/>
 			<div className="wrapper">
 				<h1>{frontmatter.title}</h1>
+        <SimpleSlider/>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
 		</Layout>
