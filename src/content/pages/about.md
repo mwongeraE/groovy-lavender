@@ -44,8 +44,6 @@ If you are buying for speculation – to sell in the future – the cash option 
 
 If you are looking to own a home and you are tight on budget, we have you covered. You can spread your cost as you align your finances to build your home.
 
-**370,000 KES**
-
 **1 MONTH PAYMENT**
 
 Early title processing
