@@ -46,17 +46,19 @@ If you are looking to own a home and you are tight on budget, we have you covere
 
 **370,000 KES**
 
-**6 MONTH PAYMENT**
+**1 MONTH PAYMENT**
 
-Late title processing
+Early title processing
 
 Fence your plot later
 
 Own at your own pace
 
-Book with KES 50,000
+Book with KES 120K
 
-**350,000 KES**
+Balance in a month or cash.
+
+**390,000 KES**
 
 **3 MONTH PAYMENT**
 
@@ -66,11 +68,13 @@ Fence your plot immediately
 
 Make money work for you faster
 
-Book with KES 50,000
+Book with KES 120,000
 
-**340,000 KES**
+Balance in 3 months
 
-**1 MONTH PAYMENT**
+**400,000 KES**
+
+**6 MONTH PAYMENT**
 
 Early title processing
 
@@ -78,6 +82,10 @@ Fence your plot immediately
 
 Make money work for you faster
 
-Book with KES 50,000
+Book with KES 120,000
+
+Balance in 6 months
+
+**420,000 KES**
 
 <!--EndFragment-->
