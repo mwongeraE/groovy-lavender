@@ -25,4 +25,6 @@ NAIROBI.
 
 [Email:](http://sales@almondestate.co.ke/)[sales@fourmanden.co.ke](http://sales@almondestate.co.ke/)
 
+![Kimuka Directions](/assets/photo_2021-06-07_15-27-24.jpg)
+
 <!--EndFragment-->
