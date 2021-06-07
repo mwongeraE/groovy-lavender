@@ -30,7 +30,7 @@ title: "About Kimuka Gardens "
 
 <!--EndFragment-->
 
-![Kimuka Gardens](/assets/b59d3ba3-536f-48f0-91e1-41f90907a86d.jfif "Kimuka")
+![Kimuka Gardens](/assets/photo_2021-06-07_15-27-22.jpg "Kimuka")
 
 <!--StartFragment-->
 
